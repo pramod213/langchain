@@ -26,3 +26,4 @@ while True:
     print("AI: ", result.content)
     
 print(chat_history)
+print("Hello")
